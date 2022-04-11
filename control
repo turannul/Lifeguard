@@ -1,12 +1,15 @@
 Package: com.kurrt.lifeguard
 Name: Lifeguard
-Depends: mobilesubstrate
-Version: 1.2
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Respring your device using the hardware buttons.
+Description: Respring your device using the hardware buttons. 
+ Note: iOS 13 and later
 Homepage: https://kurrt.com/repo/lifeguard
 Depiction: https://kurrt.com/repo/lifeguard
 SileoDepiction: https://kurrt.com/repo/lifeguard/sileo.php
 Maintainer: Kurrt <dev@kurrt.com>
 Author: Kurrt <dev@kurrt.com>
 Section: Tweaks
+Version: 1.3
+Installed-Size: 672
+
