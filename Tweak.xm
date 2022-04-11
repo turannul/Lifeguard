@@ -1,4 +1,5 @@
 #import "Lifeguard.h"
+#import <UIKit/UIKit.h>
 
 static NSString *respringSequence = @"UDUD";
 static NSString *safeModeSequence = @"SSUDUD";
